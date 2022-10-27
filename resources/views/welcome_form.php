@@ -407,11 +407,6 @@
 <p>Welcome! My name is: <h1>Rashed</h1></p>
 
 
-
-
-
-
-    
 </form> 
 
 </body>
