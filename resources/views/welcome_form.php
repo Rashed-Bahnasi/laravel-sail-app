@@ -5,7 +5,7 @@
 
 </head>
 <body>
-<p>Welcome! My name is: <h1>Rashed</h1></p>
+<h1>Welcome! My name is: Rashed</h1>
 
 
 </form> 
