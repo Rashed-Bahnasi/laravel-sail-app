@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Welcome! My name is: Rashed</h1>
-    <h2>This is the Production Environment</h2>
+    <h2>This is the Staging Environment</h2>
 
 
 </form> 
